@@ -45,8 +45,8 @@ The Web Server saves all the data that later can be stored in a history.
 
 In order to do that, we have used a PHP script that connects to database and shows data in two different ways
 
-    /*in a graph, using another PHP script
-    /*in an Android app, in JSON format using another PHP script
+    \*in a graph, using another PHP script
+    \*in an Android app, in JSON format using another PHP script
 
 <big>5. APP</big>
 
