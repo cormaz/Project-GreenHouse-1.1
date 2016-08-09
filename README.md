@@ -30,6 +30,8 @@ The Master is on “Access Point mode” and it waits for the Slave connection t
 The Master checks if there are data available, in this case it creates an UDP packet formed by new thresholds and CRC. Infacts, it calculates the CRC that will be used by the Slave to validate the setting received.
 
 After the Master gets out of “Access Point mode”, it connects to the WiFi, in order to send data to WebServer where they will be put in a graph.
+
+[logo]: http://www.google.com/images/logo.gif
 3. Slave
 
 The Slave acquires temperature and humidity by DHT22 sensor and after 5 minutes it sends data to the Master. It also creates an UDP packet, it connects to the Master and then sends the data.
