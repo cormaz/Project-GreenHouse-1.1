@@ -11,6 +11,7 @@ Another important advantage is the possibility to store data into a DataBase. Th
 Furthermore, thanks to a real-time system control we can intervene immediately, preventing problems for cultivation.
 
 The automatic monitoring system in greenhouses is composed of sensors that read environment data and actuators, called “Slaves”. They communicate via Wireless with central device, called “Master”. The latter sends possible changes to slaves (like change of thresholds) and data via WiFi to webserver as well.
+
 <big>1. How does it Work?</big>
 
 We can split this project in three different parts:
