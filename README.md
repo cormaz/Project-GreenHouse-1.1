@@ -58,3 +58,7 @@ In the first screen, we can select the timing range to show and with the button 
 The App shows data into graphic.
 
 
+<big>NEXT STEP</big>
+
+Imagine that there are three greenhouses in one system to automate, our project would require of three Masters and more slaves. Now we want to substitute the MKR1000 with Arduino Star OTTO to use a DSI-display in order to show the history and modify all the parameters outside the greenhouse.
+With this update, it could be controlled both locally and remotely.
